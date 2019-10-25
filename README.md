@@ -144,17 +144,17 @@
 >The plan of the enhancement is creating a project that would be simple to follow and have new columns and rows to be included in the tables that were already created. Also, the artifact was an enormous success and it is long then were excepted because the inserts were long it has the players player id, team id, first, last names, date of birth, social, and telephone numbers. The sports team table has the team id, city, and team name which both databases were slightly difficult to add all the players on one page and all the teams on the same page. This is because I was trying to have fewer documents to have for this document and if we have the inserts separate then the artifact will look long and hard to follow. However, the new data for these two tables are separate from the old data. This way we will know what the old data is and what the old data that we have included. The screenshot below shows the two enhanced databases for the player's data and for the sports team data. For, the security statement I have added an alter session to set the oracle script to be true to create the user's account. Also, I have granted them access to all the privileges that the user can use to start the process of using the database and start creating their own tables in their own connection to the database server.
 
 
-># [This is the sports team data that listed the updated data and the old data for each team. ]
+># [This is the sports team data that listed the updated data and the old data for each team.]
 
 >![Sports_Team](https://user-images.githubusercontent.com/54901771/67448573-07dcd000-f5dd-11e9-977e-feeeb2fda7fc.png)
 
 
-># [This is the enhance player data table that listed the updates and the old values of each player. ]
+># [This is the enhance player data table that listed the updates and the old values of each player.]
 
 >![Players Names Data](https://user-images.githubusercontent.com/54901771/67448642-35297e00-f5dd-11e9-8c68-18099a4a1d27.png)
 
 
-># [This is the security to create a new user to be connected to the Oracle Database. ]
+># [This is the security to create a new user to be connected to the Oracle Database.]
 
 >![SECURITYORACLE](https://user-images.githubusercontent.com/54901771/67449029-6e162280-f5de-11e9-86f1-af34d37fea49.png)
 
