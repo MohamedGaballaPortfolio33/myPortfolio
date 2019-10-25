@@ -52,12 +52,12 @@
 
 >The old design of the pyramid is green, and the modern design of the pyramid is yellow with some design of hydrographic of Ancient Egyptian writing. This type of artifact was made using transformations and rotations of the vertex arrays.  When we use vertex arrays the shape will rotate to the shape you want to create. Also, I had mention vertices and indices without using these methods and graphing the design will not be made. To add the light and textures to the pyramid design we need to use texcords also known as texture coordinates, and the same numbers that you used for the triangles of the artifact.  I have improved the artifact by putting all comments on top of code and decreasing the spaces. This way it will be easy to read and see the code of the next line of code. There is a screenshot that shows the old design and the old texture below. 
 
->This is the old pyramid design
+># [This is the old pyramid design.]
 
 >![Old Pyramid](https://user-images.githubusercontent.com/54901771/67442956-6a77a100-f5c8-11e9-9df2-7640d506e470.png)
 
 
->This is the old texture design.
+># [This is the old texture design.]
 
 >![Old Texture Design](https://user-images.githubusercontent.com/54901771/67443163-584a3280-f5c9-11e9-8c0f-e6b190dca616.png)
 
@@ -66,17 +66,17 @@
 >The plan of enhancement was to create a new floor design and fixing the lightbulb to shape like a pyramid. Also, adding a new color to the background and a new image to the pyramid.  However, my plan did not work because the floor did not been inserted.  There is enhancement to the background of the window it was black before the improvement of the artifact and now it is blue.  When I have enhanced the project, I changed the design to a much brighter color and changing the color of the light to a better color which is now yellow. To understand something clearly, at last, you need to move the pyramid around using the ALT key and an Optical mouse so the light of the color can be seen on the pyramid display. I decided not to include the floor for the project enhancement, but everything else went smooth and created successfully. The screenshot of the new design of the pyramid and the new texture design is shown below and the movement of the light of the pyramid. 
 
 
->This is the new pyramid and background design.
+># [This is the new pyramid and background design.]
 
 >![NewPyramid](https://user-images.githubusercontent.com/54901771/67443642-381b7300-f5cb-11e9-8202-1b506c8f4009.png)
 
 
->This is the new lightbulb and new yellow color of the light of the pyramid.
+>T# [This is the new lightbulb and new yellow color of the light of the pyramid.]
 
 >![Light of pyramid](https://user-images.githubusercontent.com/54901771/67443795-f3dca280-f5cb-11e9-9043-ec90d64f56ab.png)
 
 
->The innovative design of the texture of the pyramid
+># [This is the new design of the texture of the pyramid.]
 
 >![NewTexture](https://user-images.githubusercontent.com/54901771/67444037-fd1a3f00-f5cc-11e9-97e7-71eea8c899dc.png)
 
@@ -104,19 +104,19 @@
 >The plan of the enhancement was to make the project more professional like real projects on the field by supplying a way for the user to enjoy using the software. Also, allowing new ways to create the data and providing new testes that were used to test each code. The enhancement was to create two files one for the server file and one for the main file. The server file will have the URLs that will be tested to make the documents to be inserted and updating it. Also, for the security part and new documents will be in the Main method. There is some method that will bring the top 5 stocks from the most top 5 high salary stock that will be included in the documents. It will list only 5 stock that is included in the database collection and leaving the rest out. 
 
 
-> From, the image below is what the output will look after a username and password were inserted. First, they need to sign up for the username before logging into the database. Once they have signed up for the username it will return a welcome message and the document will appear and the rest of the operators will show that it was updated or removed from the collection.
+># [From, the image below is what the output will look after a username and password were inserted. First, they need to sign up for the username before logging into the database. Once they have signed up for the username it will return a welcome message and the document will appear and the rest of the operators will show that it was updated or removed from the collection.]
 
 >![SignUpUserName](https://user-images.githubusercontent.com/54901771/67445520-d7903400-f5d2-11e9-913c-a579bb2e9678.png)
 
->This is to begin the process of running the URLs. Also, we will need to open another Terminal to begin using the URLs. That is located at the bottom of the project files. 
+># [This is to begin the process of running the URLs. Also, we will need to open another Terminal to begin using the URLs. That is located at the bottom of the project files.]
 
 >![StartingRestfulAPIServer](https://user-images.githubusercontent.com/54901771/67446578-ae71a280-f5d6-11e9-9eb7-dda183b3274c.png)
 
->This is the server output file that we used to update the file to update all the documents for that specific sector name. 
+># [This is the server output file that we used to update the file to update all the documents for that specific sector name.]
 
 >![UpdatedDocument](https://user-images.githubusercontent.com/54901771/67446324-de6c7600-f5d5-11e9-8b6b-5cb84cb40ab9.png)
 
->There is a method that will format the documents to be easy to read. 
+># [There is a method that will format the documents to be easy to read. ]
 
 >![MethodFormatting](https://user-images.githubusercontent.com/54901771/67446880-a7975f80-f5d7-11e9-9072-1f40e086fa23.png)
 
@@ -144,17 +144,17 @@
 >The plan of the enhancement is creating a project that would be simple to follow and have new columns and rows to be included in the tables that were already created. Also, the artifact was an enormous success and it is long then were excepted because the inserts were long it has the players player id, team id, first, last names, date of birth, social, and telephone numbers. The sports team table has the team id, city, and team name which both databases were slightly difficult to add all the players on one page and all the teams on the same page. This is because I was trying to have fewer documents to have for this document and if we have the inserts separate then the artifact will look long and hard to follow. However, the new data for these two tables are separate from the old data. This way we will know what the old data is and what the old data that we have included. The screenshot below shows the two enhanced databases for the player's data and for the sports team data. For, the security statement I have added an alter session to set the oracle script to be true to create the user's account. Also, I have granted them access to all the privileges that the user can use to start the process of using the database and start creating their own tables in their own connection to the database server.
 
 
->This is the sports team data that listed the updated data and the old data for each team. 
+># [This is the sports team data that listed the updated data and the old data for each team. ]
 
 >![Sports_Team](https://user-images.githubusercontent.com/54901771/67448573-07dcd000-f5dd-11e9-977e-feeeb2fda7fc.png)
 
 
->This is the enhance player data table that listed the updates and the old values of each player. 
+># [This is the enhance player data table that listed the updates and the old values of each player. ]
 
 >![Players Names Data](https://user-images.githubusercontent.com/54901771/67448642-35297e00-f5dd-11e9-8c68-18099a4a1d27.png)
 
 
->This is the security to create a new user to be connected to the Oracle Database. 
+># [This is the security to create a new user to be connected to the Oracle Database. ]
 
 >![SECURITYORACLE](https://user-images.githubusercontent.com/54901771/67449029-6e162280-f5de-11e9-86f1-af34d37fea49.png)
 
