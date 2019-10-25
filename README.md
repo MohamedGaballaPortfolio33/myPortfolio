@@ -71,7 +71,7 @@
 >![NewPyramid](https://user-images.githubusercontent.com/54901771/67443642-381b7300-f5cb-11e9-8202-1b506c8f4009.png)
 
 
->T# [This is the new lightbulb and new yellow color of the light of the pyramid.]
+># [This is the new lightbulb and new yellow color of the light of the pyramid.]
 
 >![Light of pyramid](https://user-images.githubusercontent.com/54901771/67443795-f3dca280-f5cb-11e9-9043-ec90d64f56ab.png)
 
