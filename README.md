@@ -40,7 +40,7 @@
 
 >[![image](https://i.udemycdn.com/course/750x422/1319770_1b84_5.jpg)](https://github.com/MohamedGaballaPortfolio33/MyPortfolio/tree/master/ImprovePyramidProject)
 
-># [To access the project code files please click here or on the image above thank you.](https://github.com/MohamedGaballaPortfolio33/MyPortfolio/tree/master/ImprovePyramidProjects)
+># [To access the project code files please click here or on the image above thank you.](https://github.com/MohamedGaballaPortfolio33/MyPortfolio/tree/master/ImprovePyramidProject)
 
 ># Artifact Description 
 
