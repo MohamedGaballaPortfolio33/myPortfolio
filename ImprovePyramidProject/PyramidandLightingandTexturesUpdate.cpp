@@ -413,7 +413,7 @@ int main(void)
 		glUseProgram(shaderProgram);
 		//The statement will add a background color
 		//to the window of the back of the Pyramid
-		glClearColor(1.0f, 0.0f, 0.0f, 0.0f);
+		glClearColor(0.0f, 0.0f, 1.0f, 0.0f);
 
 		//Declare identity matrix 
 		glm::mat4 projectionMatrix;
