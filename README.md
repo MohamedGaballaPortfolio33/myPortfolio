@@ -87,11 +87,10 @@
 ># Data Structures and Algorithms
 
 
->[![image](https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F5242668e-93e9-11e8-95f8-8640db9060a7?fit=scale-down&source=next&width=700)](https://github.com/MohamedGaballaPortfolio33/myPortfolio.gitImprovedPythonMongodbRestfulAPI/ImprovedPythonMongodbRestfulAPI)
+>[![image](https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F5242668e-93e9-11e8-95f8-8640db9060a7?fit=scale-down&source=next&width=700)](https://github.com/MohamedGaballaPortfolio33/myPortfolio.gitImprovedPythonMongodbRestfulAPI)
 
 
-># [To access the project code files please click here or on the image above thank you.](https://github.com/MohamedGaballaPortfolio33/myPortfolio.git/ImprovedPythonMongodbRestfulAPI)
-
+># [To access the project code files please click here or on the image above thank you.](https://github.com/MohamedGaballaPortfolio33/MyPortfolio/tree/master/ImprovedPythonMongodbRestfulAPI)
 ># Artifact Description 
 
 >The artifact that I have chosen to implement is my MongoDB and Restful API project. This project had been made to create a database connection using the four CRUD operators (Create, Read, Update, Delete). From, using these four operators it has been used to insert documents into the database collection and using MongoDB has a connection to the server. The Programming language that was being used is Python. This assignment was created on May 6, 2019, through June 30, 2019. 
