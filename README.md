@@ -38,9 +38,9 @@
 
 ># Software Engineer and Design
 
->[![image](https://i.udemycdn.com/course/750x422/1319770_1b84_5.jpg)](https://github.com/MohamedGaballaPortfolio33/myPortfolio.git/ImprovePyramidProject)
+>[![image](https://i.udemycdn.com/course/750x422/1319770_1b84_5.jpg)](https://github.com/MohamedGaballaPortfolio33/MyPortfolio/tree/master/ImprovePyramidProject)
 
-># [To access the project code files please click here or on the image above thank you.](https://github.com/MohamedGaballaPortfolio33/myPortfolio.git/ImprovePyramidProjects)
+># [To access the project code files please click here or on the image above thank you.](https://github.com/MohamedGaballaPortfolio33/MyPortfolio/tree/master/ImprovePyramidProjects)
 
 ># Artifact Description 
 
@@ -86,10 +86,7 @@
 
 ># Data Structures and Algorithms
 
-
 >[![image](https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F5242668e-93e9-11e8-95f8-8640db9060a7?fit=scale-down&source=next&width=700)](https://github.com/MohamedGaballaPortfolio33/MyPortfolio/tree/master/ImprovedPythonMongodbRestfulAPI)
-
-
 
 ># [To access the project code files please click here or on the image above thank you.](https://github.com/MohamedGaballaPortfolio33/MyPortfolio/tree/master/ImprovedPythonMongodbRestfulAPI)
 ># Artifact Description 
