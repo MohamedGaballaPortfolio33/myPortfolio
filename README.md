@@ -1,4 +1,4 @@
->>># ![image](https://i1.wp.com/chiphouston.com/wp-content/uploads/2015/10/images.jpeg)
+>####### ![image](https://i1.wp.com/chiphouston.com/wp-content/uploads/2015/10/images.jpeg)
 
 ># Introducing Myself
 >First, let me introduce myself my name is Mohamed Gaballa and I have received my Bachelor's in Science degree in Computer Science at Southern New Hampshire University. I have transferred from a Community College called Ocean County College to get my Associate in Science in Computer Science degree.  Below is my ePortfolio Capstone of how I completed my coursework and some narratives of how I enhanced and improved an existing project. 
