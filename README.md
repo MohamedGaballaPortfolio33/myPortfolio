@@ -116,7 +116,7 @@
 
 >![UpdatedDocument](https://user-images.githubusercontent.com/54901771/67446324-de6c7600-f5d5-11e9-8b6b-5cb84cb40ab9.png)
 
-># [There is a method that will format the documents to be easy to read. ]
+># [There is a method that will format the documents to be easy to read.]
 
 >![MethodFormatting](https://user-images.githubusercontent.com/54901771/67446880-a7975f80-f5d7-11e9-9072-1f40e086fa23.png)
 
