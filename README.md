@@ -38,7 +38,7 @@
 
 ># Software Engineer and Design
 
->[![image](https://www.albertogramaglia.com/wp-content/uploads/2015/08/x.jpg)]https://github.com/MohamedGaballaPortfolio33/myPortfolio.git/ImprovePyramidProject)
+>[![image](https://i.udemycdn.com/course/750x422/1319770_1b84_5.jpg)](https://github.com/MohamedGaballaPortfolio33/myPortfolio.git/ImprovePyramidProject)
 
 ># [To access the project code files please click here or on the image above thank you.](https://github.com/MohamedGaballaPortfolio33/myPortfolio.git/ImprovePyramidProject)
 
