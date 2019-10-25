@@ -125,9 +125,9 @@
 >During the enhancement process, I was able to bring the features of the security to run and adding it to the collection. I met some challenges of understanding what some of the methods and variables to include while improving the artifact, but I keep trying to add new ways to create the process to work. It was difficult to insert new documents into the project and letting the user enter a username without starting from the beginning of creating the project for the first time. Then I tried to work my way through and writing some stuff down before beginning my enhancement and I got the security and the rest of the document to work correctly. I learned as I creating my project is to keep on trying to enhance the project and always add comments to what you are doing. This is a clever way to know what each method is running and how it will work the documents that are being used in the user interface. 
 
 ># Databases
->[![image](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTy5d_tRm8-SwLPUFWyOjex7gr4vOYrvSNzv-GQaBwlod2II_0H)](https://github.com/MoGaballa32/My-ePortfolio/tree/master/ImprovedOracleSQLProject)
+>[![image](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTy5d_tRm8-SwLPUFWyOjex7gr4vOYrvSNzv-GQaBwlod2II_0H)](https://github.com/MohamedGaballaPortfolio33/MyPortfolio/tree/master/ImprovedOracleSQLProject)
 
-># [To access the project code files please click here or on the image above thank you.](https://github.com/MoGaballa32/My-ePortfolio/tree/master/ImprovedOracleSQLProject)
+># [To access the project code files please click here or on the image above thank you.](https://github.com/MohamedGaballaPortfolio33/MyPortfolio/tree/master/ImprovedOracleSQLProject)
 
 ># Artifact Description 
 
